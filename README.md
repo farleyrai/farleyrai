@@ -29,12 +29,7 @@
 
 ---
 
-## 📌 Projetos
 
-### 🗺️ Rota Guará
-Projeto desenvolvido com foco em tecnologia e turismo, buscando proporcionar uma melhor experiência para usuários que desejam conhecer e explorar novos lugares.
-
-**Tecnologias:** React, TypeScript, Node.js e outras tecnologias web.
 
 ---
 
@@ -58,7 +53,7 @@ Projeto desenvolvido com foco em tecnologia e turismo, buscando proporcionar uma
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="mailto:farleyaraujo267@gmail.com">
+<a href="mailto:farleytads@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
